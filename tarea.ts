@@ -1,3 +1,5 @@
+ //editado mar 19 de marzo 2024
+ 
  //areaDeUnTrangulo 
  Report : {
 let base:number=10
